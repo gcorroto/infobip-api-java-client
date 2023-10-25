@@ -29,6 +29,7 @@ public enum WhatsAppCategory {
     AUTO_REPLY("AUTO_REPLY"),
     MARKETING("MARKETING"),
     TRANSACTIONAL("TRANSACTIONAL"),
+    UTILITY("UTILITY"),
     OTP("OTP");
 
     private final String value;
